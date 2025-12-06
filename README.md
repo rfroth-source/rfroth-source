@@ -11,5 +11,5 @@ Here are some ideas to get you started:
 - 🤔 I study Business
 - 💬 Email: rfroth@usc.edu
 
-![Penguin](assets/penguin.png)
+![Penguin](assets/images/penguin.png)
 
